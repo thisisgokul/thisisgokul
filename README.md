@@ -12,9 +12,7 @@ I am adept at leveraging cutting-edge technologies such as Next.js, React.js, Ex
 - ❤️ Open-source enthusiast, actively contributing to the developer community and promoting knowledge-sharing.
 
 ## Contact
-📫 You can reach me via:
-<Br/>
-[LinkedIn](https://www.linkedin.com/in/gokul-subhash-83550a224/)
+📫 You can reach me via: [LinkedIn](https://www.linkedin.com/in/gokul-subhash-83550a224/)
 <Br/>
 Email:gokulsubhashnov@gmail.com
 

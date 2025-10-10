@@ -1,6 +1,7 @@
 # Hi There! 👋
 
 I am a passionate Full Stack Developer who loves working on exciting projects and collaborating.
+
 I am adept at leveraging cutting-edge technologies such as Next.js, React.js, Express.js, and Node.js to build scalable and efficient web applications.
 
 

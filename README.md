@@ -2,13 +2,11 @@
 
 I am a passionate Full Stack Developer who loves working on exciting projects and collaborating.
 
-I am adept at leveraging cutting-edge technologies such as Next.js, React.js, Express.js, and Node.js to build scalable and efficient web applications.
-
 
 ## About Me
-- 💻 Full-stack developer proficient in JavaScript ,Typescript, C#, HTML5, and CSS.
-- 🚀 Experienced in building web applications using Next.js, React.js, Express.js, and Node.js.
-- 📊 Familiar with MongoDB and other database systems.
+- 💻 Full-stack developer proficient in JavaScript ,Typescript, C#, python.
+- 🚀 Experienced in building web applications using Next.js, React.js, Express.js, Node.js fastify.
+- 📊 Familiar with sql and nosql database systems.
 - 🎓 Enthusiastic learner, always exploring new technologies and staying up-to-date with the latest industry trends.
 - 💡 Strong problem-solving skills and a knack for finding elegant and efficient solutions to complex challenges.
 - ❤️ Open-source enthusiast, actively contributing to the developer community and promoting knowledge-sharing.
